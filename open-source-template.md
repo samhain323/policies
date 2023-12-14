@@ -1,8 +1,8 @@
-## Shake Alarm Clock: Privacy policy
+## Open Source: Privacy policy
 
-Welcome to the Shake Alarm Clock app for Android!
+Welcome to the ***** app for Android!
 
-This is an open source Android app developed by Wrichik Basu. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
+This is an open source Android app developed by *****. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
 
 As an avid Android user myself, I take privacy very seriously.
 I know how irritating it is when apps collect your data without your knowledge.
@@ -13,7 +13,7 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 
 The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
 
-https://github.com/WrichikBasu/ShakeAlarmClock/blob/1031bad5edd2e73eda091cd1e84746f4710c7528/app/src/main/AndroidManifest.xml#L7-L15
+https://github.com/*****
 
 <br/>
 
